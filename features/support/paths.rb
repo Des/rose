@@ -10,6 +10,8 @@ module NavigationHelpers
     
     when /the homepage/
       '/'
+    when /the welcome page/
+      '/welcome'
     
     # Add more mappings here.
     # Here is a more fancy example:
